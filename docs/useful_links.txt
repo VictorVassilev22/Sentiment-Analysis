@@ -4,3 +4,6 @@ https://medium.com/mcd-unison/twitter-sentiment-analysis-using-zookeeper-kafka-a
 https://medium.datadriveninvestor.com/sentiment-analysis-of-stocks-from-financial-news-using-python-82ebdcefb638
 https://research.aimultiple.com/sentiment-analysis-stock-market/?fbclid=IwAR18eBRJjrD5hI0L6IPaCHUwR4QAZfwz1jLRusGgkaQJ9OZINrX91AmDe6E
 https://seekingalpha.com/article/4167585-sentiment-analysis-approach-to-predicting-stock-returns?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyPT_bYdoHTPdTIHo-jfj7tAkTRUXoKNpTOGUD9RX4lz6opu2nKYzQoaAgc1EALw_wcB&internal_promotion=true&utm_campaign=18206959603&utm_medium=cpc&utm_source=google&utm_term=146735267969%5Edsa-1485125202378%5E%5E637923646531%5E%5E%5Eg&fbclid=IwAR1Qk6VrmS-TFccR4JCT6ALCTeoQeVzbNOjD4SRVbn0gt5y88VYWem6lFDU
+https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/
+https://levelup.gitconnected.com/simple-nlp-in-python-f5196db63aff
+https://newsapi.org/
