@@ -8,7 +8,6 @@ import props
 # Generate Kafka producer / localhost and 9092 default ports
 producer = KafkaProducer(bootstrap_servers=props.bootstrap_servers)
 
-
 # We overwrite our tweet listener in order to send info to our kafka consumer
 class TweetStream(tweepy.StreamingClient):
 

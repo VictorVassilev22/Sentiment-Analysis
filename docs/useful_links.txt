@@ -7,3 +7,9 @@ https://seekingalpha.com/article/4167585-sentiment-analysis-approach-to-predicti
 https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/
 https://levelup.gitconnected.com/simple-nlp-in-python-f5196db63aff
 https://newsapi.org/
+https://github.com/mattlisiv/newsapi-python
+https://newsapi.org/docs/endpoints/
+https://www.youtube.com/watch?v=9yn6Vb8WKzg
+https://www.youtube.com/watch?v=7YacOe4XwhY&t=122s
+https://www.youtube.com/watch?v=vZAXpvHhQow
+https://towardsdatascience.com/training-a-naive-bayes-model-to-identify-the-author-of-an-email-or-document-17dc85fa630a
